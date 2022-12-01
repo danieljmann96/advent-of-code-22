@@ -1,0 +1,14 @@
+{"read advent input file": {
+    "prefix": "rf",
+    "body": [
+        "const read = require('read-file');",
+        "",
+        "read('${TM_FILENAME_BASE:default}input.txt', 'utf8', function (err, buffer) {",
+        "if (err) {",
+        "console.error(err);",
+        "} else {",
+        "$1",
+        "}",
+        "});"
+    ]
+}}

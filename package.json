@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-22",
+  "version": "1.0.0",
+  "description": "Advent of code 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljmann96/advent-of-code-22.git"
+  },
+  "author": "Daniel Mann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieljmann96/advent-of-code-22/issues"
+  },
+  "homepage": "https://github.com/danieljmann96/advent-of-code-22#readme",
+  "dependencies": {
+    "read-file": "^0.2.0"
+  }
+}
