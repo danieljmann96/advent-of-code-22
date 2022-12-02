@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/danieljmann96/advent-of-code-22#readme",
   "dependencies": {
+    "lodash": "^4.17.21",
     "read-file": "^0.2.0"
   }
 }
